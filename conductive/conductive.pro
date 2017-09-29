@@ -1,4 +1,4 @@
-update=Fri 29 Sep 2017 01:13:46 PM EDT
+update=Fri 29 Sep 2017 03:37:48 PM EDT
 version=1
 last_client=kicad
 [general]
@@ -63,3 +63,4 @@ LibName29=valves
 LibName30=/home/dwblair/gitwork/conductivity-board/ad8532
 LibName31=/home/dwblair/gitwork/conductivity-board/ad8534
 LibName32=/home/dwblair/gitwork/conductivity-board/conductivity
+LibName33=/home/dwblair/gitwork/conductivity-board/74h4051
