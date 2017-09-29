@@ -1,4 +1,4 @@
-update=Fri 29 Sep 2017 03:37:48 PM EDT
+update=Fri 29 Sep 2017 04:09:39 PM EDT
 version=1
 last_client=kicad
 [general]
@@ -64,3 +64,13 @@ LibName30=/home/dwblair/gitwork/conductivity-board/ad8532
 LibName31=/home/dwblair/gitwork/conductivity-board/ad8534
 LibName32=/home/dwblair/gitwork/conductivity-board/conductivity
 LibName33=/home/dwblair/gitwork/conductivity-board/74h4051
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=/home/dwblair/gitwork/conductivity-board/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=60
+ERC_TestSimilarLabels=1

@@ -38,11 +38,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "Conductivity-board"
 Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Rev "0.1"
+Comp "edgecollective"
+Comment1 "Note:  If U2 is not placed, J3 can be used to connect a through-hole amplifying resistor"
 Comment2 ""
 Comment3 ""
 Comment4 ""
