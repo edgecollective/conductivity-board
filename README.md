@@ -5,13 +5,15 @@
 - [Conceptual diagram](ref_docs/conductivityCircuit.pdf)
 - [Schematic](conductive.pdf)
 
-## Contributors (alphabetical)
+## Contributors
 
 - Don Blair
 - Brian Mayton
 - Laura Perovich
 - Yagiz Sutcu
 - Craig Versek
+
+(listed alphabetically)
 
 ## Notes / Todo
 
