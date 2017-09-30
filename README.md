@@ -12,6 +12,10 @@
 - Yagiz Sutcu
 - Craig Versek
 
+## Notes / Todo
+
+- The rail splitter chip library (and thus the schematic)  incorrectly uses '74H4051' instead of '74HC4051' as the name of the chip.  This needs to be modified at the library level, then updated in the schematic.
+
 ## Parts
 
 - [74HC4051D](https://www.digikey.com/product-detail/en/935298447118/1727-1032-1-ND/3749039?curr=usd&WT.z_cid=ref_octopart_dkc_buynow&site=us) (Multiplexer)
