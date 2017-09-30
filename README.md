@@ -1,6 +1,6 @@
 # conductivity-board
 
-<img width=400 src="conductdraft3da.png">
+<img width=400 src="conductdraft3db.png">
 
 - [Conceptual diagram](ref_docs/conductivityCircuit.pdf)
 - [Schematic](conductive.pdf)
