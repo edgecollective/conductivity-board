@@ -3,7 +3,7 @@
 <img width=400 src="conductdraft3da.png">
 
 - [Conceptual diagram](ref_docs/conductivityCircuit.pdf)
-- [Schematic](ref_docs/conductive.pdf)
+- [Schematic](conductive.pdf)
 
 ## Acknowledgements
 
