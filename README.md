@@ -5,7 +5,7 @@
 - [Conceptual diagram](ref_docs/conductivityCircuit.pdf)
 - [Schematic](conductive.pdf)
 
-## Acknowledgements
+## Contributors 
 
 - Brian Mayton
 - Laura Perovich
