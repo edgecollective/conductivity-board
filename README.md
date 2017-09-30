@@ -5,8 +5,9 @@
 - [Conceptual diagram](ref_docs/conductivityCircuit.pdf)
 - [Schematic](conductive.pdf)
 
-## Contributors 
+## Contributors (alphabetical)
 
+- Don Blair
 - Brian Mayton
 - Laura Perovich
 - Yagiz Sutcu
