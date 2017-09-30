@@ -716,7 +716,7 @@ PROBE_B
 Text GLabel 4800 2050 0    60   Input ~ 0
 V_B
 Text GLabel 4800 2150 0    60   Input ~ 0
-V_C
+V_D
 Text GLabel 4800 2250 0    60   Input ~ 0
 SIG_OUT
 Text GLabel 4800 1750 0    60   Input ~ 0
@@ -745,8 +745,6 @@ F 3 "" H 4800 2350 50  0001 C CNN
 $EndComp
 Text GLabel 7050 4750 2    60   Input ~ 0
 V_B
-Text GLabel 7900 3950 2    60   Input ~ 0
-V_C
 Connection ~ 6850 2900
 Wire Wire Line
 	6850 2500 6650 2500
@@ -755,8 +753,6 @@ Wire Wire Line
 	6450 2900 6450 3200
 Wire Wire Line
 	6550 2900 6450 2900
-Wire Wire Line
-	7850 3950 7900 3950
 Wire Wire Line
 	6850 4750 7050 4750
 Wire Wire Line
@@ -868,4 +864,9 @@ Wire Wire Line
 	6850 2500 6850 3050
 Wire Wire Line
 	6300 3200 6850 3200
+Wire Wire Line
+	8050 2700 7950 2700
+Connection ~ 8050 2700
+Text GLabel 7950 2700 0    60   Input ~ 0
+V_D
 $EndSCHEMATC
