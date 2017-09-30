@@ -72,13 +72,13 @@ $EndComp
 $Comp
 L R R2
 U 1 1 59CE9040
-P 6400 3050
-F 0 "R2" H 6330 3004 50  0000 R CNN
-F 1 "R" H 6330 3095 50  0000 R CNN
-F 2 "Resistors_SMD:R_0805" V 6330 3050 50  0001 C CNN
-F 3 "" H 6400 3050 50  0001 C CNN
-	1    6400 3050
-	-1   0    0    1   
+P 6700 2900
+F 0 "R2" H 6630 2854 50  0000 R CNN
+F 1 "R" H 6630 2945 50  0000 R CNN
+F 2 "Resistors_SMD:R_0805" V 6630 2900 50  0001 C CNN
+F 3 "" H 6700 2900 50  0001 C CNN
+	1    6700 2900
+	0    -1   -1   0   
 $EndComp
 $Comp
 L R R5
@@ -746,12 +746,7 @@ $EndComp
 Wire Wire Line
 	6300 3200 6850 3200
 Wire Wire Line
-	6400 2900 6850 2900
-Wire Wire Line
-	6850 2900 6850 3050
-Wire Wire Line
-	6650 2900 6650 2500
-Connection ~ 6650 2900
+	6850 2500 6850 3050
 Wire Wire Line
 	5850 3200 6000 3200
 Wire Wire Line
@@ -865,4 +860,12 @@ Wire Wire Line
 	7850 3950 7900 3950
 Text GLabel 7900 3950 2    60   Input ~ 0
 V_C
+Wire Wire Line
+	6550 2900 6450 2900
+Wire Wire Line
+	6450 2900 6450 3200
+Connection ~ 6450 3200
+Wire Wire Line
+	6850 2500 6650 2500
+Connection ~ 6850 2900
 $EndSCHEMATC
