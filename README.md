@@ -7,13 +7,13 @@
 
 ## Contributors
 
+(Listed alphabetically)
+
 - Don Blair
 - Brian Mayton
 - Laura Perovich
 - Yagiz Sutcu
 - Craig Versek
-
-(listed alphabetically)
 
 ## Notes / Todo
 
