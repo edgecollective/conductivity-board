@@ -869,4 +869,86 @@ Wire Wire Line
 Connection ~ 8050 2700
 Text GLabel 7950 2700 0    60   Input ~ 0
 V_D
+$Comp
+L Conn_Coaxial J5
+U 1 1 59D3DE2D
+P 5800 1150
+F 0 "J5" H 5900 1034 50  0000 L CNN
+F 1 "Conn_Coaxial" H 5900 1125 50  0000 L CNN
+F 2 "Connectors:SMA_SMD_Jack_Straight" H 5800 1150 50  0001 C CNN
+F 3 "" H 5800 1150 50  0001 C CNN
+	1    5800 1150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Conn_Coaxial J6
+U 1 1 59D403CC
+P 6150 1450
+F 0 "J6" H 6250 1334 50  0000 L CNN
+F 1 "Conn_Coaxial" H 6250 1425 50  0000 L CNN
+F 2 "Connectors:SMA_SMD_Jack_Straight" H 6150 1450 50  0001 C CNN
+F 3 "" H 6150 1450 50  0001 C CNN
+	1    6150 1450
+	-1   0    0    1   
+$EndComp
+$Comp
+L Conn_01x04 J9
+U 1 1 59D40983
+P 6650 1150
+F 0 "J9" H 6730 1142 50  0000 L CNN
+F 1 "Conn_01x04" H 6730 1051 50  0000 L CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm" H 6650 1150 50  0001 C CNN
+F 3 "" H 6650 1150 50  0001 C CNN
+	1    6650 1150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5800 950  6450 950 
+Wire Wire Line
+	6450 950  6450 1050
+Wire Wire Line
+	5950 1150 6450 1150
+Wire Wire Line
+	6150 1250 6450 1250
+Wire Wire Line
+	6300 1450 6450 1450
+Wire Wire Line
+	6450 1450 6450 1350
+Text GLabel 7950 1150 0    60   Input ~ 0
+PROBE_A
+Text GLabel 7950 1350 0    60   Input ~ 0
+PROBE_B
+$Comp
+L Conn_01x04 J7
+U 1 1 59D4C6FF
+P 8150 1250
+F 0 "J7" H 8230 1242 50  0000 L CNN
+F 1 "Conn_01x04" H 8230 1151 50  0000 L CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm" H 8150 1250 50  0001 C CNN
+F 3 "" H 8150 1250 50  0001 C CNN
+	1    8150 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR028
+U 1 1 59D4C787
+P 7950 1250
+F 0 "#PWR028" H 7950 1000 50  0001 C CNN
+F 1 "GND" V 7955 1122 50  0000 R CNN
+F 2 "" H 7950 1250 50  0001 C CNN
+F 3 "" H 7950 1250 50  0001 C CNN
+	1    7950 1250
+	0    1    1    0   
+$EndComp
+$Comp
+L GND #PWR029
+U 1 1 59D4C7D4
+P 7950 1450
+F 0 "#PWR029" H 7950 1200 50  0001 C CNN
+F 1 "GND" V 7955 1322 50  0000 R CNN
+F 2 "" H 7950 1450 50  0001 C CNN
+F 3 "" H 7950 1450 50  0001 C CNN
+	1    7950 1450
+	0    1    1    0   
+$EndComp
 $EndSCHEMATC
